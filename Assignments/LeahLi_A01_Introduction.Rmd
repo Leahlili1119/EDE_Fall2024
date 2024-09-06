@@ -22,22 +22,22 @@ Enter answers to the questions just below the >Answer: prompt.
 
 1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
 
-> Answer: 
+> Answer: I have taken ENV710 Applied Statistical Modeling in my EAM requirement last year. In that class I have used R to complete the class project, to clean data, create visualizations and models and to output reports. However, Git is a bit new to me and i am still trying to adept to Git as a workspace.
 
 2. Are there any components of the course about which you feel confident?
 
-> Answer: 
+> Answer: I feel confident about the first half of the class topics like visualization and linear models because that was covered in ENV710 and I have praticed it using R.
 
 3. Are there any components of the course about which you feel apprehensive?
 
-> Answer: 
+> Answer: I feel less confident about time series and spactial analysis because it might require an higher understanding of coding and the research question. But i definitely look forward to learning more about it!
 
 
 ## 2) GitHub
 
 Provide a link below to your forked course repository in GitHub. Make sure you have pulled all recent changes from the course repository and that you have updated your course README file, committed those changes, and pushed them to your GitHub account. 
 
-> Answer: 
+> Answer: https://github.com/Leahlili1119/EDE_Fall2024
 
 ## 3) Knitting
 When you have completed this document, click the `knit` button.This should produce a PDF copy of your markdown document. Submit this PDF to Canvas 
