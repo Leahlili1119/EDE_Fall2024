@@ -133,7 +133,9 @@ Run_second_function
 
 #13a. Run the first function with the vector of test scores
 
-#This is the code I am trying to use. But it seems to be not working: Run_first_function_vector <- evaluate_score(test_scores)
+#This is the code I am trying to use.
+#But it seems to be not working: 
+#Run_first_function_vector <- evaluate_score(test_scores)
 
 #13b. Run the second function with the vector of test scores
 
