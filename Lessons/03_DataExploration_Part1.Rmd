@@ -59,9 +59,9 @@ You need to load packages each time you start (or restart) an R coding session; 
 
 ```{r Setup: Loading Packages}
 #Install packages - uncomment these only when you need to install packages
-#install.packages('dplyr')
-#install.packages('ggplot')
-#install.packages('here')
+install.packages('dplyr')
+install.packages('ggplot')
+install.packages('here')
 
 #Load the tidyverse, ggplot2, and here package
 library(dplyr)
@@ -314,7 +314,7 @@ We just edited our raw dataset into a processed form. We may want to return to t
 ```{r Saving data}
 write.csv(
   USGS.flow.data, 
-  file = here("/Data/Processed/USGS_Site02085000_Flow_Processed.csv"), 
+  file = here("./Data/Processed/USGS_Site02085000_Flow_Processed.csv"), 
   row.names=FALSE)
 
 ```
