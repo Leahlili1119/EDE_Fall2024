@@ -30,7 +30,7 @@ Why is data exploration our first step in analyzing a dataset? What information 
 
 # 3. Import datasets
 USGS.flow.data<-read.csv(
-  file=home('')
+  file=here('')
 )
 
 ## -Initial Exploration-
