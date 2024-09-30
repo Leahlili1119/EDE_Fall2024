@@ -171,8 +171,6 @@ EPA_combined <- rbind(EPA_O3_2018_processed,
                       EPA_PM_2018_processed, 
                       EPA_PM_2019_processed)
 
-# View the combined dataset
-head(EPA_combined)
 
 #8 
 # Wrangle and reshape the combined dataset
